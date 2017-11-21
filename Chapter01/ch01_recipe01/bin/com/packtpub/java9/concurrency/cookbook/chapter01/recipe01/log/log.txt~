@@ -1,0 +1,105 @@
+Main: Status of thread 0 : NEW
+Main: Status of thread 1 : NEW
+Main: Status of thread 2 : NEW
+Main: Status of thread 3 : NEW
+Main: Status of thread 4 : NEW
+Main: Status of thread 5 : NEW
+Main: Status of thread 6 : NEW
+Main: Status of thread 7 : NEW
+Main: Status of thread 8 : NEW
+Main: Status of thread 9 : NEW
+Main : Id 10 - 0
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 11 - 1
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 12 - 2
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 13 - 3
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 14 - 4
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 15 - 5
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 16 - 6
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 17 - 7
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 18 - 8
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 19 - 9
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 15 - 5
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 16 - 6
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 10 - 0
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 13 - 3
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 14 - 4
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 12 - 2
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 10 - 0
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 16 - 6
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 11 - 1
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: TERMINATED
+Main : ************************************
