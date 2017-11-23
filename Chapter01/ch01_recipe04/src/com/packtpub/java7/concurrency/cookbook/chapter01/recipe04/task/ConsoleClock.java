@@ -19,8 +19,11 @@ public class ConsoleClock implements Runnable {
 			try {
 				// Sleep during one second
 				TimeUnit.SECONDS.sleep(1);
-			} catch (InterruptedException e) {
+			}
+			catch (InterruptedException e)
+			{
 				System.out.printf("The FileClock has been interrupted.\n");
+
 			}
 		}
 	}

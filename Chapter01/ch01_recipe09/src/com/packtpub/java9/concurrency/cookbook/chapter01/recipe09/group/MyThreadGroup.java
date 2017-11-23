@@ -10,7 +10,7 @@ public class MyThreadGroup extends ThreadGroup {
 	/**
 	 * Constructor of the class. Calls the parent class constructor
 	 * 
-	 * @param name
+	 The Android NDK toolset is a great example of full C/C++ support that was added originally for game development teams to enable them to get the best possible performance out of the device by avoiding Java and the Android Java runtime Dalvik, the virtual machine on which Android Java code is executed on. It has been regularly improved to enable every Android service.* @param name
 	 */
 	public MyThreadGroup(String name) {
 		super(name);
